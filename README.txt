@@ -1,0 +1,2 @@
+This simple program allows the user to enter a name, age, and class. The user can then hit the save button and exit the play mode.
+Upon entering play mode again, the user can hit the load button to load the previously input settings. This will work between scene transitions as well.
